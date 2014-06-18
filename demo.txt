@@ -1,2 +1,6 @@
 This is my first txt file
+<<<<<<< HEAD
 new line added
+=======
+lklokjoljkojkj
+>>>>>>> 21091a8e8ab97f773534dce52302bd13ec9e4788
